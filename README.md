@@ -7,17 +7,12 @@ A web-based implementation of the classic game, featuring responsive UI and game
 
 - **Tech Stack**: HTML,CSS & Javascript
 
-### [Social Sentinel(hosted)](https://github.com/rohitshah/social-sentinel)
+### [Social Sentinel(hosted)](https://github.com/rohitshah/Social-Sentinel)
 A tool for detecting fake Instagram accounts based on user activity and patterns.
 
 - **Tech Stack**: HTML,CSS & Javascript
 
-### [Social Sentinel](https://github.com/rohitshah/social-sentinel)
-A tool for detecting fake Instagram accounts based on user activity and patterns.
-
-- **Tech Stack**: HTML,CSS & Javascript
-
-### [Kheti-Connect](https://github.com/rohitshah/kheti-connect)
+### [Kheti-Connect](https://github.com/rohitshah/Kheti-Connect)
 An online platform connecting farmers with buyers to sell their produce easily.
 
 - **Tech Stack**: HTML, CSS, JavaScript, PHP, MySQL
