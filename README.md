@@ -2,12 +2,12 @@
 [![](https://visitcount.itsvg.in/api?id=Rohit-TechLab&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Projects
 
-### [Tic-Tac-Toe(hosted)](https://rohit-techlab.github.io/Tic-Tac-Toe/)
+### [Tic-Tac-Toe (hosted)](https://rohit-techlab.github.io/Tic-Tac-Toe/)
 A web-based implementation of the classic game, featuring responsive UI and game logic to handle player turns, win/loss conditions, and draws. 
 
 - **Tech Stack**: HTML, CSS & Javascript
 
-### [Social Sentinel(hosted)](https://ankit-codelab.github.io/Social-Sentinel/)
+### [Social Sentinel (hosted)](https://ankit-codelab.github.io/Social-Sentinel/)
 A tool for detecting fake Instagram accounts based on user activity and patterns.
 
 - **Tech Stack**: HTML, CSS & Javascript
