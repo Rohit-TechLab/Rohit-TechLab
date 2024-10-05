@@ -7,7 +7,7 @@ A web-based implementation of the classic game, featuring responsive UI and game
 
 - **Tech Stack**: HTML, CSS & Javascript
 
-### [Social Sentinel(hosted)](https://github.com/rohitshah/Social-Sentinel)
+### [Social Sentinel(hosted)](https://ankit-codelab.github.io/Social-Sentinel/)
 A tool for detecting fake Instagram accounts based on user activity and patterns.
 
 - **Tech Stack**: HTML, CSS & Javascript
