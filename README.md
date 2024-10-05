@@ -2,6 +2,16 @@
 
 ## Projects
 
+### [Tic-Tac-Toe(hosted)](https://rohit-techlab.github.io/Tic-Tac-Toe/))
+A tool for detecting fake Instagram accounts based on user activity and patterns.
+
+- **Tech Stack**: HTML,CSS & Javascript
+
+### [Social Sentinel(hosted)](https://github.com/rohitshah/social-sentinel)
+A tool for detecting fake Instagram accounts based on user activity and patterns.
+
+- **Tech Stack**: HTML,CSS & Javascript
+
 ### [Social Sentinel](https://github.com/rohitshah/social-sentinel)
 A tool for detecting fake Instagram accounts based on user activity and patterns.
 
