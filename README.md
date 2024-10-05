@@ -5,24 +5,12 @@
 ### [Social Sentinel](https://github.com/rohitshah/social-sentinel)
 A tool for detecting fake Instagram accounts based on user activity and patterns.
 
-- **Tech Stack**: PHP, JavaScript, HTML, CSS
-- **Features**: Fake account detection, User activity analysis, Real-time reporting
-
-![Social Sentinel Screenshot](https://user-images.githubusercontent.com/rohitshah/social-sentinel/screenshot.png)
+- **Tech Stack**: HTML,CSS & Javascript
 
 ### [Kheti-Connect](https://github.com/rohitshah/kheti-connect)
 An online platform connecting farmers with buyers to sell their produce easily.
 
 - **Tech Stack**: HTML, CSS, JavaScript, PHP, MySQL
-- **Features**: User-friendly marketplace, Secure payment integration, Product listing and bidding
-
-![Kheti-Connect Screenshot](https://user-images.githubusercontent.com/rohitshah/kheti-connect/screenshot.png)
-
----
-
-### GitHub Stats
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitshah&show_icons=true&theme=radical)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/strange._.op) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitshah2005) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25241584) 
