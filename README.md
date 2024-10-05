@@ -2,8 +2,8 @@
 
 ## Projects
 
-### [Tic-Tac-Toe(hosted)](https://rohit-techlab.github.io/Tic-Tac-Toe/))
-A tool for detecting fake Instagram accounts based on user activity and patterns.
+### [Tic-Tac-Toe(hosted)](https://rohit-techlab.github.io/Tic-Tac-Toe/)
+A web-based implementation of the classic game, featuring responsive UI and game logic to handle player turns, win/loss conditions, and draws. 
 
 - **Tech Stack**: HTML,CSS & Javascript
 
