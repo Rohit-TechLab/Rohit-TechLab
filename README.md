@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=Rohit-TechLab&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Projects
 
-### [Kheti-Connect](https://github.com/rohitshah/Kheti-Connect)
+### [Kheti-Connect](https://github.com/Rohit-TechLab/Kheti-Connect)
 An online platform connecting farmers with buyers to sell their produce easily.
 
 - **Tech Stack**: HTML, CSS, JavaScript, PHP & MySQL
