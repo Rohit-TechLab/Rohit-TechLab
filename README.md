@@ -1,4 +1,11 @@
-# Hi there, I'm Rohit 👋
+<p align="center">
+    <strong>Hey, I'm Rohit Shah</strong>
+</p>
+<hr>
+<p align="center">
+    <strong>Web Developer | Project Management Expert | Team Leader | Hackathon Strategist</strong>
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=Rohit-TechLab&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Projects
 
