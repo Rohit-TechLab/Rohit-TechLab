@@ -18,6 +18,11 @@ A web-based implementation of the classic game, featuring responsive UI and game
 
 - **Tech Stack**: HTML, CSS & Javascript
 
+### [QRifyX (hosted)](https://rohit-techlab.github.io/QRifyX/)
+An intuitive, ad-free QR code generator designed for seamless access on any device, enabling effortless creation of QR codes for URLs and text. 
+
+- **Tech Stack**: HTML, CSS & Javascript
+
 ### [Social Sentinel (hosted)](https://ankit-codelab.github.io/Social-Sentinel/)
 A tool for detecting fake Instagram accounts based on user activity and patterns.
 
