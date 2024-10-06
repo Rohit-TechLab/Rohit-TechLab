@@ -8,6 +8,11 @@
 [![](https://visitcount.itsvg.in/api?id=Rohit-TechLab&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Projects
 
+### [Kheti-Connect](https://github.com/rohitshah/Kheti-Connect)
+An online platform connecting farmers with buyers to sell their produce easily.
+
+- **Tech Stack**: HTML, CSS, JavaScript, PHP & MySQL
+
 ### [Tic-Tac-Toe (hosted)](https://rohit-techlab.github.io/Tic-Tac-Toe/)
 A web-based implementation of the classic game, featuring responsive UI and game logic to handle player turns, win/loss conditions, and draws. 
 
@@ -17,11 +22,6 @@ A web-based implementation of the classic game, featuring responsive UI and game
 A tool for detecting fake Instagram accounts based on user activity and patterns.
 
 - **Tech Stack**: HTML, CSS & Javascript
-
-### [Kheti-Connect](https://github.com/rohitshah/Kheti-Connect)
-An online platform connecting farmers with buyers to sell their produce easily.
-
-- **Tech Stack**: HTML, CSS, JavaScript, PHP & MySQL
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/strange._.op) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitshah2005) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25241584) 
